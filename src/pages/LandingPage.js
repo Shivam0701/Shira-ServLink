@@ -159,7 +159,7 @@ const LandingPage = () => {
       <Box as="footer" bg={cardBg} py={8} borderTop="1px" borderColor="gray.200">
         <Container maxW="container.xl">
           <Text textAlign="center" color="gray.600">
-            © 2024 ServLink. All rights reserved.
+            © 2025 ServLink. All rights reserved.
           </Text>
         </Container>
       </Box>
